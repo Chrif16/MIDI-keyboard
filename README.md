@@ -40,5 +40,5 @@ the challenge with this part of the project was trying to incorporate all of the
 |               |total                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |$22.23|
 
 # How to build:
-
+flash your microcontroller with the .bin file in the firmware first, then upload the rest of the files on the drive that shows up on your computer then solder all the compontnents in their place. then and only then do you put on your 3d printed case and screw the back of it in place and then enjoy your very own skeleton guitar.
 
