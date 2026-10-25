@@ -3,6 +3,7 @@
 a midi piano that plugs into your computer and you're able to play any music you want by touching the copper traces on the pcb. containing an esp32 s3 and 3 customizable buttons and a potentiometer slider. and it also comes equipped with a screen that visualizes your note playing in waveform. its also skeleton themed because of the halloween season.
 this is a part of hackclub's half life event in which i got help in starting out with a guide.<img width="1920" height="632" alt="keybord modified" src="https://github.com/user-attachments/assets/057520e2-49b2-4564-a7a3-96dea99ab6e8" />
 <img width="1920" height="632" alt="keybord2 0" src="https://github.com/user-attachments/assets/188a73e2-dc5b-48b6-8d2b-e8eefb31f7d7" />
+<img width="3508" height="4960" alt="zine bone" src="https://github.com/user-attachments/assets/3b085b28-a5af-4482-9522-e09f257ad4af" />
 
 
 # Schematics
@@ -41,4 +42,8 @@ the challenge with this part of the project was trying to incorporate all of the
 
 # How to build:
 flash your microcontroller with the .bin file in the firmware first, then upload the rest of the files on the drive that shows up on your computer then solder all the compontnents in their place. then and only then do you put on your 3d printed case and screw the back of it in place and then enjoy your very own skeleton guitar.
+
+# zine
+
+<img width="3508" height="4960" alt="zine bone" src="https://github.com/user-attachments/assets/c9c09588-9bca-4a7c-a6b3-abb624acaafa" />
 
