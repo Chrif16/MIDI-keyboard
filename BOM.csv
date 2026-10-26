@@ -1,2 +1,8 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+number of parts,part,link,price
+1,waveshare esp32 s3 zero,https://www.aliexpress.us/item/3256806776731157.html?spm=a2g0o.productlist.main.15.482a56e3AFkoUe&algo_pvid=272920cd-6205-4073-8e20-afeb743c3d61&algo_exp_id=272920cd-6205-4073-8e20-afeb743c3d61-14&pdp_ext_f=%7B%22order%22%3A%22953%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2155.12%2149.96%21%21%2155.12%2149.96%21%402103274a17929683436936034e0dba%2112000051721448210%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3c3ee12f%3Bm03_new_user%3A-29895%3BpisId%3A5000000218152484&curPageLogUid=C42bl997dEIB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006963045909%7C_p_origin_prod%3A,$4.29 
+1,Bourns Slide Potentiometers,https://www.aliexpress.us/item/3256809451173049.html?spm=a2g0o.detail.0.0.4ae7UuB2UuB2Zy&mp=1&pdp_npi=6%40dis%21USD%21USD+2.58%21USD+2.32%21%21USD+2.32%21%21%21%400b15841617929692304533667e102c%2112000049717901325%21ct%21US%21-1%21%211%210%21&gatewayAdapt=glo2usa,$2.58
+1,0.96 inch oled display,https://www.aliexpress.us/item/3256806795691296.html?spm=a2g0o.productlist.main.9.27e74926l4ebKm&algo_pvid=fd58b686-06b4-4867-bf45-206dadc1584d&algo_exp_id=fd58b686-06b4-4867-bf45-206dadc1584d-8&pdp_ext_f=%7B%22order%22%3A%2233%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.82%211.09%21%21%2132.01%217.28%21%402103128817929689347392562e0d77%2112000038930846105%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3c3ee12f%3Bm03_new_user%3A-29895%3BpisId%3A5000000218152484&curPageLogUid=JsZNF58BaPaz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006982006048%7C_p_origin_prod%3A,$5
+3,Kailh Choc Low-Profile Switches,https://www.aliexpress.us/item/3256812653947991.html?spm=a2g0o.productlist.0.0.35d43c5fJWn5m3&mp=1&pdp_npi=6%40dis%21USD%21USD+4.36%21USD+4.36%21%21USD+4.36%21%21%21%400b15841617929692238543568e102c%2112000059499320560%21ct%21US%21-1%21%211%210%21&gatewayAdapt=glo2usa,$4.36
+5,pcb,jlcpcb,$4
+1,3d printing,jlcp,$2
+,total,,$22.23
